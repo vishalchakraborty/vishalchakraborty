@@ -30,7 +30,7 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,python,mysql,mongodb,react,tableau,powerbi,excel,postgresql,pandas" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,python,mysql,mongodb,photoshop,tableau,powerbi,excel,postgresql" alt="Languages and Tools" />
   <br>
   </p>
 ---
