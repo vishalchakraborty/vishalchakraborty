@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalchakraborty&label=Profile%20views&color=e65681&style=flat" alt="vishalchakraborty" /> </p>
-<img src="https://lh3.googleusercontent.com/proxy/a-VOdZsC_vLMBKfWshgCMyMqGsx5Hg85nSmNAUCziavvdWv49Ja9e14xBrfWerAIvfE0Ziwz7UY3TGOCthLCvF8G0_iOCZbwkgs2yPQ6DGNh8JNOVusiSm13g1E1c7iREousEuFy-N8j-BIM06Ze0u6ct-tsx9qLwC0" , align="right" width="200" height="150">
+<img src="https://lh3.googleusercontent.com/proxy/a-VOdZsC_vLMBKfWshgCMyMqGsx5Hg85nSmNAUCziavvdWv49Ja9e14xBrfWerAIvfE0Ziwz7UY3TGOCthLCvF8G0_iOCZbwkgs2yPQ6DGNh8JNOVusiSm13g1E1c7iREousEuFy-N8j-BIM06Ze0u6ct-tsx9qLwC0" , align="right" width="400" height="250">
 
 - 🔭 I’m currently working on **Web Development & Data Analytics**
 
